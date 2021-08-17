@@ -1,1 +1,1 @@
-function ar(message) { alert(message) } function conlog(message) { console.log(message) } function wprt() { window.print()}
+function ar(message) { alert(message) } function conlog(message) { console.log(message) } function wprt() { window.print()} function conwn(message) { console.warn(message) } function coner(message) { console.error(message) }
